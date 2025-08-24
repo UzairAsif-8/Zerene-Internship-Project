@@ -66,7 +66,7 @@ function Navbar() {
 
       {/* Mobile Menu dropdown humburger click pe open hoga */}
       {menuOpen && (
-        <div className="md:hidden fixed top-[88px] left-0 w-full bg-[rgb(159,141,118)] text-white flex flex-col items-center gap-4 py-6 z-40">
+        <div className="md:hidden fixed top-[88px] left-0 w-full bg-[rgb(159,141,118)] text-white flex flex-col items-center gap-4 py-6 z-60">
           <a href="#" onClick={() => setMenuOpen(false)}>
             About
           </a>
