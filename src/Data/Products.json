@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Ylang Ylang - Lavender Room Spray",
+    "price": 2090,
+    "currency": "THB",
+    "image": "/Products/p1.svg"
+  },
+  {
+    "id": 2,
+    "name": "Ylang Ylang - Lavender Aroma Roller",
+    "price": 790,
+    "currency": "THB",
+    "image": "/Products/p2.svg"
+  },
+  {
+    "id": 3,
+    "name": "Agarwood Room Spray",
+    "price": 2090,
+    "currency": "THB",
+    "image": "/Products/p3.svg"
+  },
+  {
+    "id": 4,
+    "name": "Ylang Ylang - Lavender Room Spray",
+    "price": 2090,
+    "currency": "THB",
+    "image": "/Products/p4.svg"
+  },
+  {
+    "id": 5,
+    "name": "Ylang Ylang - Lavender Aroma Roller",
+    "price": 790,
+    "currency": "THB",
+    "image": "/Products/p5.svg"
+  },
+  {
+    "id": 6,
+    "name": "Agarwood Room Spray",
+    "price": 2090,
+    "currency": "THB",
+    "image": "/Products/p6.svg"
+  }
+]
