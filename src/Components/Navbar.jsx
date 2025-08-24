@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <>
       {/* Navbar ka main container */}
-      <div className="w-full bg-[rgb(159,141,118)] h-[88px] flex fixed z-50 top-0 justify-between items-center px-4 md:px-10">
+      <div className="w-full bg-[rgb(159,141,118)] h-[88px] flex fixed z-60 top-0 justify-between items-center px-4 md:px-10">
         {/* HamBurger Button sirf visible on phone */}
         <button
           className="md:hidden text-white text-3xl"
