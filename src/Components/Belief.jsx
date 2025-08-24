@@ -13,15 +13,15 @@ function Belief() {
             <h1 className="lg:pl-20 md:pl-5px pl-3px text-[rgba(165,141,118,1)] text-2xl text-center lg:text-left md:text-center xl:text-left ">
               Our Beliefs
             </h1>
-            <h2 className="lg:pl-20 md:pl-5px pl-3px text-white lg:text-4xl xl:text-4xl text-2xl md:text-3xl text-center lg:text-left md:text-center xl:text-left ">
+            <h2 className="lg:pl-20 md:pl-5 pl-3 pr-2 text-white lg:text-4xl xl:text-4xl text-2xl md:text-3xl text-center lg:text-left md:text-center xl:text-left ">
               Zerene crafts immersive sensory experiences and transforms
               everyday spaces into sanctuaries of tranquility.
             </h2>
-            <p className="lg:pl-20 md:pl-5px pl-3px pb-5 lg:pb-0 xl:pb-0 md:pb-4 text-white text-center lg:text-left md:text-center xl:text-left  ">
+            <p className="lg:pl-20 md:pl-7 pl-5 pb-5 lg:pb-0 xl:pb-0 md:pb-4 text-white text-center lg:text-left md:text-center xl:text-left  ">
               ___________________
             </p>
           </div>
-          <div className="lg:pr-20 md:pr-5px pr-3px text-center lg:text-left md:text-center xl:text-left">
+          <div className="lg:pr-20 md:pr-7 pl-5 pr-5 text-center lg:text-left md:text-center xl:text-left">
             <p className="text-white pb-7 ">
               Our beliefs amplify the brand's vision, establishing its core
               principles, moulding its culture, and directing every decision and
